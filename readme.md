@@ -1,8 +1,4 @@
-## kmeans-distributed
+## kmeans-pyspark
+K-means clustering algorithm implemented in PySpark.
 
-A distributed implementation of the kmeans 
-clustering algorithm for spark data frames.
-
-I'm not convinced this implementation is
-without bugs in its current state, so suggestions 
-and pull requests are welcome. 
+Please open an issue or submit a PR if you suspect any bugs. 
